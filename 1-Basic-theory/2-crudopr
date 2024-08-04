@@ -1,0 +1,5 @@
+GET (/posts) retrieve resources
+POST   (/posts) submit new data to the users
+PUT   (/posts/:id) updates existing data //user ki id name or everything
+PATCH  (/posts/:id)  update existting data partially 
+DELETE (/posts/:id)  remove data
